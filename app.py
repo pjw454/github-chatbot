@@ -49,3 +49,6 @@ if __name__ == '__main__':
 
 
 #https://api.telegram.org/bot956873054:AAF6v0VfOcmfX-B_Knkszy5UyjNIGlxtyNo/setWebhook?url=https://bfa0ee75.ngrok.io/956873054:AAF6v0VfOcmfX-B_Knkszy5UyjNIGlxtyNo
+
+# 배포 사용 url
+#https://api.telegram.org/bot956873054:AAF6v0VfOcmfX-B_Knkszy5UyjNIGlxtyNo/setWebhook?url=http://jungwoo-bot-1.herokuapp.com//956873054:AAF6v0VfOcmfX-B_Knkszy5UyjNIGlxtyNo
