@@ -62,17 +62,4 @@ NAVER_CLIENT_SECRET = config('NAVER_CLIENT_SECRET')
 
 #### 주의!!! 반드시 .env 를 . gitignore에 등록!!!
 
-```bash
-# python 가상환경을 bash 환경에서 할 때 해야하는 것
-
-user@LAPTOP-U84V5JFB MINGW64 ~/Desktop/chatbot (master)
-$ python -m venv venv
-
-user@LAPTOP-U84V5JFB MINGW64 ~/Desktop/chatbot (master)
-$ source venv/Scripts/activate
-(venv)
-user@LAPTOP-U84V5JFB MINGW64 ~/Desktop/chatbot (master)
-$ pip list
-
-```
 
